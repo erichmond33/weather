@@ -84,7 +84,7 @@ export default CurrentWeatherCard;
 
 const styles = StyleSheet.create({
 	card: {
-		marginTop: 60,
+		marginTop: 15,
 		alignSelf: 'center',
 		width: '92%',
 		backgroundColor: 'rgba(255,255,255,0.06)',
